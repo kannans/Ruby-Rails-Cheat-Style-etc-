@@ -17,6 +17,9 @@ http://www.jetbrains.com/ruby/docs/RubyMine_ReferenceCard.pdf
 
 
 
+NOTE: Please contribute to this repository, if you have anything else which helps. 
+Its better to have everything in center.
+
 
 Source:
 
